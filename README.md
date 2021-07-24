@@ -9,7 +9,7 @@
   - *Negative Images – Images of everything else, which do not contain the object we want to detect.*
 ## Haar-cascade Detection in Python(OpenCV)
 - *OpenCV comes as a detector which uses Haar Cascade.*
-- *In face detection, we use the *Haarcascade Frontal Face* which is in `xml` format.*
+- *In face detection, we use the *Haarcascade Frontal Face* which is in xml format.*
 ## Requirements
 1. opencv-python - *Wrapper package for OpenCV python bindings.*
 ```
